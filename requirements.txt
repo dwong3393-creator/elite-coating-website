@@ -1,0 +1,4 @@
+Pillow     # build-site.py: reads image sizes
+rcssmin    # build-site.py: shrinks the CSS (optional, the site works without it)
+rjsmin     # build-site.py: shrinks the JS (optional, the site works without it)
+pymupdf    # make-share-images.py only: draws the SVG logo

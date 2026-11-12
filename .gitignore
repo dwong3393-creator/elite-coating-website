@@ -1,0 +1,20 @@
+# Large or private folders that stay on this computer only
+Standard Coating Website/
+backups/
+source-materials/
+Design References/
+upload to web host/
+upload/
+
+# Tool and editor folders
+.claude/
+.playwright-mcp/
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
